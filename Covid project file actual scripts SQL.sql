@@ -1,18 +1,4 @@
 
-
-
---select * from PortfolioProject.dbo.covidvaccinations
---order by 3, 4
-
-
--- select data that we are going to be using
-
-
---select location, date, total_cases, new_cases, total_deaths, population
---from PortfolioProject.dbo.coviddeaths
---order by 1 , 2
-
-
 -- looking at total cases vs total deaths
 -- shows the likelihood of dying if you attract covid in your country
 
